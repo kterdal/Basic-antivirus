@@ -1,0 +1,23 @@
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.xml
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.vbprojResolveAssemblyReference.cache
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Form1.resources
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Resources.resources
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.vbproj.GenerateResource.Cache
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.xml
+c:\users\jackk\documents\visual studio 2015\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\bin\Debug\Tutorial.xml
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.vbprojAssemblyReference.cache
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.Form1.resources
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.Resources.resources
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.vbproj.GenerateResource.cache
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.xml
+C:\Users\Kishan Terdal\Desktop\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
